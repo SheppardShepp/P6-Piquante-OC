@@ -16,10 +16,11 @@ Rendez-vous dans les fichiers "package.json" pour prendre connaissance des outil
 
 ## La partie FRONTEND
 
-Pour faire fonctionner la partie front, il faut installer le package npm.
-Une fois le repository télécharger et l'installation du package npm avec les dependence adequate, ouvrer le terminal et entrée les commandes suivantes:
+Pour faire fonctionner la partie front, il faut installer le package npm
+Pour cela ouvrer le terminal et entrer les commandes suivantes:
 
 - "cd front"
+- "npm install"
 - "npm start"
 
 Celui est accessible a l'adresse : http://localhost:4200/
@@ -33,9 +34,10 @@ Pour faire fonctionner la partie back il faut:
         - "BDD_URL =" (+ votre lien mongodb)
         - "SECRET_TOKEN =" (+ la valeur ) 
 - Installer le package npm.
-Une fois le repository télécharger et l'installation du package npm avec les dependence adequate, ouvrer le terminal et entrée les commandes suivante:
+Pour cela ouvrer le terminal et entrer les commandes suivantes:
 
 - "cd back"
+- "npm install"
 - "npm start"
 
 Celui est accessible a l'adresse : http://localhost:3000/
