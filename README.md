@@ -27,9 +27,9 @@ Une fois le repository télécharger et l'installation du package npm avec les d
 Pour faire fonctionner la partie back il faut:
 - Créer un dossier "images" (sans majuscule)
 - Créer un fichier ".env"
-    => y créer 2 variables: 
-        => "BDD_URL =" (+ votre lien mongodb)
-        => "SECRET_TOKEN =" (+ la valeur ) 
+    - y créer 2 variables: 
+        - "BDD_URL =" (+ votre lien mongodb)
+        - "SECRET_TOKEN =" (+ la valeur ) 
 - Installer le package npm.
 Une fois le repository télécharger et l'installation du package npm avec les dependence adequate, ouvrer le terminal et entrée les commandes suivante:
 
