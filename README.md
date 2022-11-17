@@ -7,30 +7,31 @@ leurs sauces préférées et liker ou disliker les sauces ajoutées par les autr
 
 ## Le projet et son fonctionnement
 
-Les technologie utilisé:
+Les technologies utilisées:
 - pour le front: javascript utilisant Angular.
 - pour le back: javascript avec Node.js et Express et mongodb pour la base de donnée.
 
 
-Rendez-vous dans les fichier "package.json" pour prendre connaissance des outils utilisés.
+Rendez-vous dans les fichiers "package.json" pour prendre connaissance des outils utilisés.
 
 ## La partie FRONTEND
 
-Pour faire fonctionné la partie front, il faut installer le package npm.
-Une fois le repository télécharger et l'installation du package npm, ouvrer le terminal et entrée les commandes suivante:
+Pour faire fonctionner la partie front, il faut installer le package npm.
+Une fois le repository télécharger et l'installation du package npm avec les dependence adequate, ouvrer le terminal et entrée les commandes suivantes:
 
 - "cd front"
 - "npm start"
 
 ## La partie BACKEND
 
-Pour faire fonctionné la partie front, il faut installer le package npm.
-Une fois le repository télécharger et l'installation du package npm, ouvrer le terminal et entrée les commandes suivante:
+Pour faire fonctionner la partie back il faut:
+- Créer un dossier "images" (sans majuscule)
+- Créer un fichier ".env"
+    => y créer 2 variables: 
+        => "BDD_URL =" (+ votre lien mongodb)
+        => "SECRET_TOKEN =" (+ la valeur ) 
+- Installer le package npm.
+Une fois le repository télécharger et l'installation du package npm avec les dependence adequate, ouvrer le terminal et entrée les commandes suivante:
 
 - "cd back"
 - "npm start"
-
-## chose a créer
-
-- dossier images
-- fichier .env
