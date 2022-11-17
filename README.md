@@ -22,6 +22,8 @@ Une fois le repository télécharger et l'installation du package npm avec les d
 - "cd front"
 - "npm start"
 
+Celui est accessible a l'adresse : http://localhost:4200/
+
 ## La partie BACKEND
 
 Pour faire fonctionner la partie back il faut:
@@ -35,3 +37,5 @@ Une fois le repository télécharger et l'installation du package npm avec les d
 
 - "cd back"
 - "npm start"
+
+Celui est accessible a l'adresse : http://localhost:3000/
