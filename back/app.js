@@ -1,3 +1,4 @@
+//importation des outils pour l'utilisation du serveur
 const express = require("express");
 const mongoose = require("mongoose");
 const path = require("path");
@@ -5,9 +6,11 @@ const morgan = require("morgan");
 const cors = require("cors");
 require("dotenv").config();
 
+//importation des routes
 const sauceRoutes = require("./routes/sauces");
 const userRoutes = require("./routes/user");
 
+//connection avec la base de donnée
 mongoose
   .connect(process.env.BDD_URL, {
     useNewUrlParser: true,
@@ -16,6 +19,7 @@ mongoose
   .then(() => console.log("Connexion à MongoDB réussie !"))
   .catch(() => console.log("Connexion à MongoDB échouée !"));
 
+//mise en place de l'infrastructure d'express pour le serveur
 const app = express();
 
 app.use(morgan("dev"));
