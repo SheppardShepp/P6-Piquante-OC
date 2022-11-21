@@ -31,8 +31,8 @@ Pour faire fonctionner la partie back il faut:
 - Créer un dossier "images" (sans majuscule)
 - Créer un fichier ".env"
     - y créer 2 variables: 
-        - "BDD_URL =" (+ votre lien mongodb)
-        - "SECRET_TOKEN =" (+ la valeur ) 
+        - "BDD_URL =" + <!-- votre lien mongodb pour la base de donnée de l'application -->
+        - "SECRET_TOKEN =" + <!-- une valeur en guise de clé secrète --> 
 - Installer le package npm.
 Pour cela ouvrer le terminal et entrer les commandes suivantes:
 
