@@ -41,3 +41,21 @@ Pour cela ouvrer le terminal et entrer les commandes suivantes:
 - "npm start"
 
 Celui est accessible a l'adresse : http://localhost:3000/
+
+## Pour la création d'un compte utilisateur
+
+Pour la création d'un compte utilisateur il faut respecter certain critère qui sont composé de:
+
+Pour l'email:
+- ne pas contenir d'espace
+- Avant le "@" peux contenir des majuscule, minuscule et chiffre et 3 caractère spéciaux (-_.)
+- doit contenir un "@"
+- Apres le "@" peux contenir des majuscule, minuscule et chiffre et 3 caractère spéciaux (-_.)
+- doit finir par ".fr", ".com" ou autre.
+
+Pour le mot de passse:
+- doit etre composé de 5 à 20 caratère
+- doit etre composé de miniscule et majuscule
+- doit etre composé d'un chiffre
+- ne pas contenir d'espace
+- doit etre composé d'au moin 1 caratère spécial

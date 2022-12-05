@@ -12,7 +12,6 @@ exports.getAllSauces = (req, res, next) => {
     .catch((error) => res.status(400).json({ error }));
 };
 
-
 // -------------------------------------------------------------------
 // ----------------- fonction d'affichage d'un objet -----------------
 
