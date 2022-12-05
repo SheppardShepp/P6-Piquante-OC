@@ -48,9 +48,9 @@ Pour la création d'un compte utilisateur il faut respecter certain critère qui
 
 Pour l'email:
 - ne pas contenir d'espace
-- Avant le "@" peux contenir des majuscule, minuscule et chiffre et 3 caractère spéciaux (-_.)
+- Avant le "@" peux contenir des majuscule, minuscule et chiffre et 3 caractère spéciaux " -_. "
 - doit contenir un "@"
-- Apres le "@" peux contenir des majuscule, minuscule et chiffre et 3 caractère spéciaux (-_.)
+- Apres le "@" peux contenir des majuscule, minuscule et chiffre et 3 caractère spéciaux " -_. "
 - doit finir par ".fr", ".com" ou autre.
 
 Pour le mot de passse:
@@ -58,4 +58,4 @@ Pour le mot de passse:
 - doit etre composé de miniscule et majuscule
 - doit etre composé d'un chiffre
 - ne pas contenir d'espace
-- doit etre composé d'au moin 1 caratère spécial
+- doit etre composé d'au moin 1 caratère spécial " @$!%*?& "
