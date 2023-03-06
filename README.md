@@ -14,8 +14,8 @@ P6-Piquante-OC</h1>
 
 ## 💭 Petit mot de présentation <a name = "présentation"></a>
 
-Ce projet a eu pour but d'apprendre la mise en place d'un API REST sécurisé en utilisant les technologie de Node.js et Express, ainsi que la mise en place et l'utilisation d'une base de donnée avec MongoDB. Le tout en utilisant l'application Postman afin de faire les tests necesaires.
-Pour cela l'on m'a fournis une site avec la partie front-end déjà mis en place avec Angular. J'avais donc plus qu'a faire la partie back-end en prenant soin de respecter les recommandations de l'OWASP.
+Ce projet a eu pour but d'apprendre la mise en place d'un API REST sécurisé en utilisant les technologies de Node.js et Express, ainsi que la mise en place et l'utilisation d'une base de données avec MongoDB. Le tout en utilisant l'application Postman afin de faire les tests nécessaires.
+Pour cela l'on m'a fournis un site avec la partie front-end déjà mis en place avec Angular. J'avais donc plus qu'à faire la partie back-end en prenant soin de respecter les recommandations de l'OWASP.
 
 ---
 
@@ -51,7 +51,7 @@ Utilisation : <img height="30" src="https://raw.githubusercontent.com/github/exp
 
 Aperçu :
 
-<div align="center"><img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/piquan10.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/piquan11.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/piquan13.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/piquan12.png"> <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/postma10.png"></div>
+<div align="center"><img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/piquan10.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/piquan11.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/piquan13.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/piquan12.png"></div>
 
 ---
 
@@ -73,7 +73,7 @@ Cloner le dépôt git du projet via un éditeur de code ou le télécharger puis
 - "npm install"
 - "npm start"
 
-Celui est accessible a l'adresse : http://localhost:4200/
+Celui est accessible à l'adresse : http://localhost:4200/
 
 ## :gear: Installation de l'API <a name = "api"></a>
 
@@ -93,7 +93,7 @@ Dans le dossier back, il faut créer :
   - "npm install"
   - "npm start"
 
-Celui est accessible a l'adresse : http://localhost:3000/
+Celui est accessible à l'adresse : http://localhost:3000/
 
 ## Pour la création d'un compte utilisateur <a name = "utilisateur"></a>
 
@@ -107,10 +107,10 @@ Pour l'email:
 - Apres le "@" peux contenir des majuscules, minuscules, chiffres et 1 caractère spéciaux parmi " -\_. "
 - doit finir par ".fr", ".com" ou autre.
 
-Pour le mot de passse:
+Pour le mot de passe:
 
-- doit etre composé de 5 à 20 caratère
-- doit etre composé de miniscule et majuscule
-- doit etre composé d'un chiffre
-- ne pas contenir d'espace
-- doit etre composé d'au moin 1 caratère spécial " @$!%\*?& "
+- doit être composé de 5 à 20 caractères.
+- doit être composé de minuscule et majuscule.
+- doit être composé d'un chiffre.
+- ne pas contenir d'espace.
+- doit être composé d'au moins 1 caractère spécial " @$!%\*?& "
