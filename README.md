@@ -23,6 +23,8 @@ Pour cela l'on m'a fournis un site avec la partie front-end déjà mis en place 
 
 Piquante se dédie à la création de sauces épicées dont les recettes sont gardées secrètes. Pour tirer parti de son succès et générer davantage de buzz, l'entreprise souhaite créer une application web dans laquelle les utilisateurs peuvent ajouter leurs sauces préférées et liker ou disliker les sauces ajoutées par les autres.
 
+Lien des spécifications technique : [Spécifications-technique](https://drive.google.com/file/d/13gfqljkY-Zn5cbc-bwWNuCZYFn8h3pZM/view?usp=sharing)
+
 ---
 
 ### Langages à utilisés
@@ -95,7 +97,7 @@ Dans le dossier back, il faut créer :
 
 Celui est accessible à l'adresse : http://localhost:3000/
 
-## Pour la création d'un compte utilisateur <a name = "utilisateur"></a>
+## :computer: Pour la création d'un compte utilisateur <a name = "utilisateur"></a>
 
 Pour la création d'un compte utilisateur il faut respecter certain critère qui sont composé de:
 
