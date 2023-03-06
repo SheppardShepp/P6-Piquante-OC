@@ -1,7 +1,7 @@
 <h1 align="center">
 P6-Piquante-OC</h1>
 
-<div align="center"><img height="300" src="https://i.servimg.com/u/f31/13/52/99/79/logo210.png"></div>
+<div align="center"><img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/piquan14.png"></div>
 
 ## 📝 Sommaires
 
